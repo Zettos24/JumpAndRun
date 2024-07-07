@@ -67,6 +67,10 @@ Settings:
 - Place a redstone block (REDSTONE_BLOCK) two blocks below the gold plate.
 - When a player stands on the gold plate, the game starts
 
+## Permissions
+
+- Area Command: `jumpandrun.area`
+
 ## Conclusion
 Thank you for using the Jump and Run plugin! Customize it to fit your needs and enjoy an exciting parkour experience in your Minecraft world. If you have any issues or suggestions, feel free to open an issue on GitHub
 
