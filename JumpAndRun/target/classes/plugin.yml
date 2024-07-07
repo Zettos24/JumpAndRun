@@ -1,5 +1,5 @@
 name: JumpAndRun
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: de.zettos.jumpandrun.JumpAndRun
 author: Zettos
 description: A Jump and Run Plugin
